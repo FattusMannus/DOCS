@@ -4,41 +4,40 @@ My leadership and manager operating manual. A guide to what you can expect from 
 
 ## My Leadership Philosophy 
 
-I believe it is my role to help guide you by clarifying the unknowns and giving you a clear direction to an end goal. If I'm doing my job correctly you should always know what your objectives are, and be empowered to achieve them. I value honesty and transparency when discussing issues, and promise the same in return. If I make a promise to you, I intend to keep it as I value being accountable for what I say I am going to deliver.
+In general, I think it's my job to clear your path to let you do the best work you can. You've been hired because we think you have the potential to do great work and where possible, I don't want to tell you *how* to do that. That being said, I also try to tailor my style to what I think would suit you best, so you get a personalised experience. Ill also do my best to protect you from things that will stop you from doing your job.  
+
+I massively value honesty - so if I have done something to annoy you, tell me and I will do my best to not do it again. I do genuinely try to action feedback so welcome it. I expect the same from you. 
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
  
 
 ### What makes you grumpy?
 
-It's cheesy, but I really value team work and people collaborating. I get grumpy if others don't pull together and put personal agenda before the team. I'd rather we honestly spoke about our agendas and compromised where possible. 
-
-I also get [hangry](https://www.merriam-webster.com/words-at-play/hangry-meaning) from time-to-time, so 11.30am you might notice I'm grumpy. 😡
-
+I get frustrated when there is a lot of politics. I want to do my best work and red tape often gets in the way of the potential things that could be done.
 
 ### How will I know when you're grumpy?
 
-I'll tell you 😉. I am guilty of being impatient when stressed, which can be interpreted as grumpy.
+You'll know. I can be short tempered under pressure.
 
 
 ### How can I help you when you're grumpy?
 
-A good joke does the trick. Ideally, a really silly, cheesy one.
+Ask if I'm ok. Then either spend 5 minites listening to me moan or leave me alone - You'll know which!
 
 
 ### How do you like feedback - slack, email, in person, etc?
 
-Face-to-face is my preferred communication method. My ideal flow would be a slack message to arrange a face-to-face chat (if its urgent I'll drop what I'm doing), and then an email to summarize. I use email as my 'to do' list, so a written confirmation of it helps me keep track of the conversation and keeps it on my radar.
+Face-to-face is my preferred communication method. My ideal flow would be a slack message to arrange a face-to-face chat (if its urgent I'll drop what I'm doing), and then an email to summarise if decisions are made.
 
 
 ### How do you like feedback - routine like in 1:1s, or as-it-happens?
 
-As-it-happens. I believe that there should be no surprises when it comes to formal 1:1s or reviews, and that challenges are easier to address through honest, regular feedback. 
+As-it-happens and ideally face to face where possible. 
 
 
 ### How do you prefer to receive recognition? (public or private)
 
-Public 🎉
+It depends, if I've done something to help you personally, a quiet word is fine. If I've done exceptional work then publically.
 
 
 ### What makes 1:1s the most valuable for you?
