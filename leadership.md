@@ -37,7 +37,7 @@ As-it-happens and ideally face to face where possible.
 
 ### How do you prefer to receive recognition? (public or private)
 
-It depends, if I've done something to help you personally, a quiet word is fine. If I've done exceptional work then publically.
+It depends, if I've done something to help you personally, a quiet word is fine. If I've done exceptional work, then publicly.
 
 
 ### What makes 1:1s the most valuable for you?
@@ -47,24 +47,22 @@ If I can understand where you are experiencing problems, the root cause, and wha
 
 ### What are your goals for this year? And for the next 3 months?
 
-* Create metrics for my teams to measure their inner-sourcing adoption
-* Create development plans for the engineers within my teams
-* Produce code dependency reports on the skills required to managed the tech estate for my teams
-
+* Learn as much as possible about the "non-tech" side of the business
+* Step away from the day to day actions required in the team and define strategy
+* Focus on improving the people I line manage
 
 ### What do you need from your manager?
 
-The autonomy and trust to delivery on my objectives. I also like to know my manager will challenge me to do more when I'm performing well, and to let me know when I've messed up. I also like to know my manager has my back if I go to them with a problem.
+Autonomy and trust are key for me. I will only contact you if I need help - so you should know this is important. 
+Otherwise, I should be allowed to find my own path to solutions.
 
 ## My expectations of folks who report to me
-
-If you're a manager yourself, you're the one I rely on to know what issues or challenges your direct reports face. So please invest in time to understand these, and surface any challenges they might have. 
 
 As conveniently as possible, let me know where you need my direct support. The sooner I know about something, the earlier I can give you what you need. 
 
 If I come to you with a requirement, or a task and you agree to support it, I expect you to honour that commitment. I won't ask you to help me with tasks that aren't important and trivial without saying so, so if you don't realistically think you can do something tell me, and I'll work around it.
 
-Be honest with me, and let me know what challenges you have. It's easier to solve problems when I know what they are, and I’ll never consider seeking support as a sign of complaining or a weakness. 
+Be honest with me, and let me know what challenges you have. It's easier to solve problems when I know what they are, and I’ll never consider seeking support as a sign of complaining or a weakness.
 
 
 ## What you can expect of me as your manager
@@ -73,5 +71,5 @@ Transparency and honesty on how I think you're doing. I'll praise regularly when
 
 I'll share my goals with you, so you always know what my priorities are, and what I'm working on. When I do this, I'll share where I need your input. When setting objectives for you, it will always be with your own career aspirations in mind.
 
-I promise to encourage a healthy work/life balance, and advocate for your well-being at all times. 
+I promise to encourage a healthy work/life balance and advocate for your well-being at all times. I do not expect you to work weekends or evenings regularly. There may be times where this is required but the rest of the time I won't be clock watching. I expect you to manage your own time - I won't be checking what time you come in or go home - these aren't important as long as the work gets done and no one outside the team is questioning your time keeping.
 
