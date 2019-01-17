@@ -56,7 +56,7 @@ If I can understand where you are experiencing problems, the root cause, and wha
 Autonomy and trust are key for me. I will only contact you if I need help - so you should know this is important. 
 Otherwise, I should be allowed to find my own path to solutions.
 
-## My expectations of folks who report to me
+## My expectations of people who report to me
 
 As conveniently as possible, let me know where you need my direct support. The sooner I know about something, the earlier I can give you what you need. 
 
