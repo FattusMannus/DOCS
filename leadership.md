@@ -4,7 +4,7 @@ My leadership and manager operating manual. A guide to what you can expect from 
 
 ## My Leadership Philosophy 
 
-In general, I think it's my job to clear your path to let you do the best work you can. You've been hired because we think you have the potential to do great work and where possible, I don't want to tell you *how* to do that. That being said, I also try to tailor my style to what I think would suit you best, so you get a personalised experience. Ill also do my best to protect you from things that will stop you from doing your job.  
+In general, I think it's my job to clear your path to let you do the best work you can. You've been hired because we think you have the potential to do great work and where possible, I don't want to tell you *how* to do that. That being said, I also try to tailor my style to what I think would suit you best, so you get a personalised experience. I'll also do my best to protect you from things that will stop you from doing your job.  
 
 I massively value honesty - so if I have done something to annoy you, tell me and I will do my best to not do it again. I do genuinely try to action feedback so welcome it. I expect the same from you. 
 
@@ -71,5 +71,5 @@ Transparency and honesty on how I think you're doing. I'll praise regularly when
 
 I'll share my goals with you, so you always know what my priorities are, and what I'm working on. When I do this, I'll share where I need your input. When setting objectives for you, it will always be with your own career aspirations in mind.
 
-I promise to encourage a healthy work/life balance and advocate for your well-being at all times. I do not expect you to work weekends or evenings regularly. There may be times where this is required but the rest of the time I won't be clock watching. I expect you to manage your own time - I won't be checking what time you come in or go home - these aren't important as long as the work gets done and no one outside the team is questioning your time keeping.
+I promise to encourage a healthy work/life balance and advocate for your well-being at all times. I do not expect you to work weekends or evenings regularly. There may be times where this is required but the rest of the time I won't be clock watching. I expect you to manage your own time - I won't be checking what time you come in or go home - these aren't important as long as the work gets done and no one outside the team is questioning your time keeping/performance. I personally work strange hours - sometimes you might see me go home at 3, or online at 11pm - It's fine with me if you do the same.
 
