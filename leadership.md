@@ -47,9 +47,7 @@ If I can understand where you are experiencing problems, the root cause, and wha
 
 ### What are your goals for this year? And for the next 3 months?
 
-* Learn as much as possible about the "non-tech" side of the business
-* Step away from the day to day actions required in the team and define strategy
-* Focus on improving the people I line manage
+TBC
 
 ### What do you need from your manager?
 
