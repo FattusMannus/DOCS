@@ -6,7 +6,7 @@ My leadership and manager operating manual. A guide to what you can expect from 
 
 In general, I think it's my job to clear your path to let you do the best work you can. You've been hired because we think you have the potential to do great work and where possible, I don't want to tell you *how* to do that. That being said, I also try to tailor my style to what I think would suit you best, so you get a personalised experience. I'll also do my best to protect you from things that will stop you from doing your job.  
 
-I massively value honesty - so if I have done something to annoy you, tell me and I will do my best to not do it again. I do genuinely try to action feedback so welcome it. I expect the same from you. 
+I massively value honesty - so if I have done something to annoy you, tell me and I will do my best to not do it again. I do genuinely try to action personal feedback so welcome it. Similarly, we don't need to "sugar coat" ay issues - all issues should be out in the open for discussion and that easier if everyone is transparent.
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
  
