@@ -13,7 +13,7 @@ I massively value honesty - so if I have done something to annoy you, tell me an
 
 ### What makes you grumpy?
 
-I get frustrated when there is a lot of politics. I want to do my best work and red tape often gets in the way of the potential things that could be done.
+I get frustrated when there is a lot of politics. I want to do my best work and red tape often gets in the way of the making progress towards business and personal goals.
 
 ### How will I know when you're grumpy?
 
@@ -22,17 +22,17 @@ You'll know. I can be short tempered under pressure.
 
 ### How can I help you when you're grumpy?
 
-Ask if I'm ok. Then either spend 5 minites listening to me moan or leave me alone - You'll know which!
+Ask if I'm ok. Then either spend 5 minites listening to me vent or leave me alone - You'll know which!
 
 
 ### How do you like feedback - slack, email, in person, etc?
 
-Face-to-face is my preferred communication method. My ideal flow would be a slack message to arrange a face-to-face chat (if its urgent I'll drop what I'm doing), and then an email to summarise if decisions are made.
+Face-to-face (meaning in person or on video call) is my preferred communication method. My ideal flow would be a slack message to arrange a face-to-face chat (if its urgent I'll drop what I'm doing), and then an email to summarise if decisions are made.
 
 
 ### How do you like feedback - routine like in 1:1s, or as-it-happens?
 
-As-it-happens and ideally face to face where possible. 
+As-it-happens and ideally face to face (in person or video call) where possible. 
 
 
 ### How do you prefer to receive recognition? (public or private)
@@ -56,11 +56,11 @@ Otherwise, I should be allowed to find my own path to solutions.
 
 ## My expectations of people who report to me
 
-As conveniently as possible, let me know where you need my direct support. The sooner I know about something, the earlier I can give you what you need. 
+As conveniently as possible, let me know where you need my direct support. The sooner I know about something, the earlier I can have an impact on those issues. 
 
 If I come to you with a requirement, or a task and you agree to support it, I expect you to honour that commitment. I won't ask you to help me with tasks that aren't important and trivial without saying so, so if you don't realistically think you can do something tell me, and I'll work around it.
 
-Be honest with me, and let me know what challenges you have. It's easier to solve problems when I know what they are, and I’ll never consider seeking support as a sign of complaining or a weakness.
+Be honest with me, and let me know what challenges you have. It's easier to solve problems when we're open about what they are, and I’ll never consider seeking support as a sign of complaining or a weakness.
 
 
 ## What you can expect of me as your manager
