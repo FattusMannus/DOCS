@@ -47,7 +47,9 @@ If I can understand where you are experiencing problems, the root cause, and wha
 
 ### What are your goals for this year? And for the next 3 months?
 
-TBC
+- Listen more to what people are saying (or not saying) rather than just preparing a response.
+- Work on communication style and whats effective to higher levels
+- Try to remain more calm under pressure and not regress to be laser focused on tasks only
 
 ### What do you need from your manager?
 
